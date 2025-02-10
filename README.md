@@ -15,7 +15,7 @@ Generates strong random passwords.
 
 Clone the repository and navigate to the project folder:
 
-git clone https://github.com/saif62012/ShulaTech_Solutions_Password-_Strength-_Checker.git
+git clone https://github.com/saif62012/ShulaTech_Solutions_Password_Strength_Checker.git
 cd password-strength-checker
 
 ▶️ Usage
